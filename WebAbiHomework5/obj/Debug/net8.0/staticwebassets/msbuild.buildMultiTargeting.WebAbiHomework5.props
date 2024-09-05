@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebAbiHomework5.props" />
+</Project>
